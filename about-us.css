@@ -1,0 +1,63 @@
+.navbar-dark{
+    background-color: #424242;
+}
+
+nav li {
+    margin-right: 20px;
+    }
+nav span {
+    color: gray;
+}
+nav a{
+    color: gray;
+    }
+nav a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.border4e{
+     padding-left: 2px; 
+     border-left: 2px solid white; 
+
+}
+.futer-one{
+    background-color: #424242;
+    color: white;
+   }
+   .prv-posleden{
+    color: white;
+    background-color: black;
+    padding: 11px 0;
+}
+.pozadina{
+    padding: 200px 0;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(image1.jpg);
+    color: white;
+}
+.krug img{
+    margin-top: -90px;
+    height: 475px;
+    
+}
+.cards{
+    color: white;
+    background-color: red;
+    border-radius: 6px;
+}
+.car-dva span{
+    color: gray;
+}
+
+.carousel-indicators li {
+    display: none;
+  }
+
+  .carousel-control-prev{
+    width: 25px;
+  }
+  .carousel-control-next{
+    width: 25px;
+  }
